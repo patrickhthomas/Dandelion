@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Sonder Sans Black Rough';
+    src: url('fonts/SonderSans-BlackRough.eot');
+    src: url('fonts/SonderSans-BlackRough.eot?#iefix') format('embedded-opentype'),
+        url('fonts/SonderSans-BlackRough.woff2') format('woff2'),
+        url('fonts/SonderSans-BlackRough.woff') format('woff'),
+        url('fonts/SonderSans-BlackRough.ttf') format('truetype'),
+        url('fonts/SonderSans-BlackRough.svg#SonderSans-BlackRough') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sonder Sans Rough';
+    src: url('fonts/SonderSans-Rough.eot');
+    src: url('fonts/SonderSans-Rough.eot?#iefix') format('embedded-opentype'),
+        url('fonts/SonderSans-Rough.woff2') format('woff2'),
+        url('fonts/SonderSans-Rough.woff') format('woff'),
+        url('fonts/SonderSans-Rough.ttf') format('truetype'),
+        url('fonts/SonderSans-Rough.svg#SonderSans-Rough') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sonder Sans Bold Rough';
+    src: url('fonts/SonderSans-BoldRough.eot');
+    src: url('fonts/SonderSans-BoldRough.eot?#iefix') format('embedded-opentype'),
+        url('fonts/SonderSans-BoldRough.woff2') format('woff2'),
+        url('fonts/SonderSans-BoldRough.woff') format('woff'),
+        url('fonts/SonderSans-BoldRough.ttf') format('truetype'),
+        url('fonts/SonderSans-BoldRough.svg#SonderSans-BoldRough') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
